@@ -9,5 +9,6 @@ jfree
 
 
 ## 样例
-- [列出运行中的 java 程序](https://github.com/goindow/jfree/tree/main/example/jars)
-- [当前 java 程序的 JMM 情况](https://github.com/goindow/bigfile/tree/main/example/jfree)
+![列出运行中的 java 程序](https://github.com/goindow/jfree/blob/main/example/jars.png)
+![显示该程序的 JMM 情况](https://github.com/goindow/jfree/blob/main/example/jfree.png)
+
