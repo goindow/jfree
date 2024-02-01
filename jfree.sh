@@ -263,7 +263,7 @@ function columns() {
   eden_body_cols=$(($eden_cols-1))
   old_body_cols=$(($old_cols-2))
   meta_body_cols=$(($cols-2))
-  # 代列出
+  # 代列数
   minor_cols=$(($survivor_cols*4-1))
   major_cols=$old_body_cols
 }
